@@ -1,0 +1,8 @@
+[package]
+name = "simple_mat_mul"
+version = "0.1.0"
+authors = ["Michael Mason <TeaUponTweed@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nalgebra = "*"
